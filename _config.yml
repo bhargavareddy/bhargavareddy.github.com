@@ -1,0 +1,19 @@
+permalink: /:categories/:title.html
+url: "127.0.0.1:4000"
+full_name: "Bhargava Reddy"
+first_name: "Bhargava"
+last_name: "Reddy"
+blog_title: "Poker"
+author_img_name_path: "/images/users/bhargava.jpg"
+disqus_shortname: "pasinduland"
+copyright_year: "2014"
+google_analytics_code: "UA-56350372-1"
+aboutme: "AI enthusiast, Sports, Poker lover. Aim: Win the WSOP ME"
+twitter: "bhargavaiitb"
+github: "bhargavareddy"
+facebook: "tbr275"
+linkined_url: ""
+exclude:
+- README.md
+- Rakefile
+- post.sh
